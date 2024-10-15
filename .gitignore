@@ -3,3 +3,5 @@ venv/
 
 # Ignore FAISS index (can be large)
 vector_index.faiss
+
+.DS_Store
