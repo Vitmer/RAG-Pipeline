@@ -1,0 +1,5 @@
+# Ignoring virtual environment folder
+venv/
+
+# Ignore FAISS index (can be large)
+vector_index.faiss
