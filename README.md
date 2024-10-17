@@ -32,11 +32,11 @@ pip install -r requirements.txt
 1. Place the PDF files in the \`/data\` folder.
 2. Run the script to extract and clean the text:
 \`\`\`bash
-python extract_and_clean.py
+python src/extract_and_clean.py
 \`\`\`
 3. Run the main file to vectorize the text and handle queries:
 \`\`\`bash
-python main.py
+python src/main.py
 \`\`\`
 
 ## Example Usage
